@@ -5,10 +5,16 @@ Implementation of Take, Central Que, FIFO/Round-Robin Scheduling Algorithms - A 
 ### Reference:
 	S. Curran and M Stumm, “A Comparison of basic CPU Scheduling Algorithms for Multiprocessor Unix”, Computer Systems, 3(4), Oct., 1990, pp. 551--579.
 
-   AOS-A1-P1 folder contain Part A of assignement
-   Visual Studio 2013 will be required
-   .NET Framework 4.5 will be required to execute
-   ...\8_PA\AOS-A1-P1\AOS-A1-P1\bin\Debug folder contain AOS-A1-P1.exe, input.txt and output.txt
+### Dependancies:
+
+[Microsoft Visual Studio Express 2013](https://www.microsoft.com/en-pk/download/details.aspx?id=44914)
+[.NET Framework 4.5](https://www.microsoft.com/en-pk/download/details.aspx?id=40779) will be required to execute
+
+### Run Application:
+
+```sh
+~Project_Dire\bin\Debug folder contain AOS-A1-P1.exe, input.txt and output.txt
+```
 
 ## Group Members:
 
