@@ -1,4 +1,4 @@
-# Part A Scheduling:
+# Part A: Scheduling:
 
 Implementation of Take, Central Que, FIFO/Round-Robin [Scheduling Algorithms](https://en.wikipedia.org/wiki/Scheduling_(computing)#Scheduling_disciplines) - A Simulation Study.
 
@@ -19,10 +19,10 @@ Implementation of Take, Central Que, FIFO/Round-Robin [Scheduling Algorithms](ht
 
 ## Group Members:
 
-1. Nayyar Ahmed <MSCS14059@ITU.EDU.PK>
-2. Tahir Ahmed  <MSCS14059@ITU.EDU.PK>
+1. Nayyar Ahmed <MSCS14051@ITU.EDU.PK>
+2. Tahir Ahmed  <MSCS14042@ITU.EDU.PK>
 3. Kaleem Ullah <MSCS14059@ITU.EDU.PK>
-4. Rai Rashid   <MSCS14059@ITU.EDU.PK>
+4. Rai Rashid   <MSCS14048@ITU.EDU.PK>
 
 
 ##Introduction:
