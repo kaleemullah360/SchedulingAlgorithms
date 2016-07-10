@@ -42,22 +42,25 @@ requires that accesses to the queue be synchronized.)
   
 Three queues:
 
-    1. Q0 – time quantum 8 milliseconds
+    1. Q0 – time quantum X milliseconds
 
-    2. Q1 – time quantum 16 milliseconds
+    2. Q1 – time quantum Y milliseconds
 
     3. Q2 – FCFS
 
 
 Scheduling
 
-1. A new job enters queue Q0 which is served FCFS . When it gains CPU, job receives 8 milliseconds.
-    If it does not finish in 8 milliseconds, job is moved to queue Q1.
+1. A new job enters queue Q0 which is served FCFS . When it gains CPU, job receives X milliseconds.
+    If it does not finish in X milliseconds, job is moved to queue Q1.
 
-2. At Q1 job is again served FCFS and receives 16 additional milliseconds. If it still does not complete,
-     it is preempted and moved to queue Q2.
+2. At Q1 job is again served FCFS and receives Y additional milliseconds. If it still does not complete,
+     it is preempted and moved to queue Q2
 
 
 ![Buddy System](RR-Scheduling.jpg)
+
+
+[Source](http://www.gitam.edu/eresource/comp/gvr(os)/5.3.htm)
 
 
