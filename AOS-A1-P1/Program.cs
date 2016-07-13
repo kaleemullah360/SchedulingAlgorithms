@@ -13,7 +13,9 @@ namespace AOS_A1_P1
             Console.WriteLine("Press 1 for Round Robin simulation and 2 for Cenetral Queue Simulation");
             int pressedkey = 1 ;
             pressedkey = Console.Read();
-            if (pressedkey == 1)
+            char ch = '1';
+            ch = Convert.ToChar(pressedkey);
+            if (ch == '1')
             {
                 RoundRobin RR = new RoundRobin();
                 RR.simulate();
