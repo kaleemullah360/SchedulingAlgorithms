@@ -62,5 +62,3 @@ Scheduling
 
 
 [Source](http://www.gitam.edu/eresource/comp/gvr(os)/5.3.htm)
-
-
